@@ -1,3 +1,7 @@
+/*
+write by xingdiwei no sa24011277
+github: https://github.com/mwamw/Cuda.git
+*/
 #include <chrono>
 #include <cstring>
 #include <fstream>
