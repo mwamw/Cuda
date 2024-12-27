@@ -13,8 +13,7 @@
 
 #define AT(x, y, z) universe[(x) * N * N + (y) * N + z]
 
-using std::cin, std::cout, std::endl;
-using std::ifstream, std::ofstream;
+using namespace std;
 
 // 存活细胞数
 int population(int N, char *universe)

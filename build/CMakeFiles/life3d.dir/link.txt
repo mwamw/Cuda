@@ -1,0 +1,1 @@
+/usr/bin/g++   CMakeFiles/life3d.dir/life3d.cu.o CMakeFiles/life3d.dir/cmake_device_link.o -o life3d  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

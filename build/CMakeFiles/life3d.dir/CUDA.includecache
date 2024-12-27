@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/d1/recovery/wxd/cpp/cuda/cuda_base/life3d/life3d.cu
+chrono
+-
+cstring
+-
+fstream
+-
+iostream
+-
+string
+-
+

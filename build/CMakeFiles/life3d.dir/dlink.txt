@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc    -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/life3d.dir/life3d.cu.o -o CMakeFiles/life3d.dir/cmake_device_link.o 
